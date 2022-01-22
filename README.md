@@ -3,7 +3,7 @@
 - What's a GAN (Generative Adversarial Network)?
   - [Wikipedia](https://en.wikipedia.org/wiki/Generative_adversarial_network).
 
-- Material extra.
+- Material extra:
   - [Deep Learning Book](https://www.deeplearningbook.com.br/introducao-as-redes-adversarias-generativas-gans-generative-adversarial-networks/) (POR-BR).
   - [Google](https://developers.google.com/machine-learning/gan) (EN).
 
